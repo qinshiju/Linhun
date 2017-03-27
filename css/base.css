@@ -1,0 +1,22 @@
+*{margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6{font-size:12px; font-weight:normal;}
+a{text-decoration:none; color:#000;}
+i,em{font-style:normal;}
+b,strong{font-weight:normal;}
+img{vertical-align:top;}
+li{list-style:none;}
+.fr{float:right;}
+.fl{float:left;}
+.clearfix:after{display:block; content:''; clear:both;}
+.clearfix{zoom:1;}
+body{font-family:'Microsoft yahei'}
+
+
+
+
+
+
+
+
+
+
